@@ -1,0 +1,235 @@
+LineageOS_compatible,manufacturer,nationality_device,name_device,codename_device,type_device,main_material_case,screen_diagonal_inches,screen_dimensions_inches,screen_aspect_ratio,screen_dimensions_dpi,screen_dimensions_pixels,screen_density
+True,ARK,Russian,Benefit A3,peach,Phone,,,,,,,
+True,Asus,Taiwan,ZenPad 8.0 (Z380KL),P024,Tablet,plastic,,,,,,
+True,Asus,Taiwan,Zenfone 2 (1080p),Z00A,Phone,plastic,,,,,,
+True,Asus,Taiwan,Zenfone 2 (720p),Z008,Phone,plastic,,,,,,
+True,Asus,Taiwan,Zenfone 2 (ZE500CL),Z00D,Phone,plastic,,,,,,
+True,Asus,Taiwan,Zenfone 2 Laser (720p),Z00L,Phone,plastic,,,,,,
+True,Asus,Taiwan,Zenfone 2 Laser/Selfie (1080p),Z00T,Phone,plastic,,,,,,
+True,Asus,Taiwan,Zenfone Max Pro M1,X00TD,Phone,plastic,,,,,,
+True,BQ,Spain,Aquaris E5 4G / Aquaris E5s,vegetalte,Phone,plastic,,,,,,
+True,BQ,Spain,Aquaris M5,piccolo,Phone,plastic,,,,,,
+True,BQ,Spain,Aquaris U,chaozu,Phone,,,,,,,
+True,BQ,Spain,Aquaris U Plus,tenshi,Phone,metal,,,,,,
+True,BQ,Spain,Aquaris X,bardock,Phone,glass?,,,,,,
+True,BQ,Spain,Aquaris X Pro,bardockpro,Phone,glass?,,,,,,
+True,BQ,Spain,Aquaris X5,paella,Phone,metal,,,,,,
+True,BQ,Spain,Aquaris X5 Plus,gohan,Phone,metal,,,,,,
+True,Fairphone,Netherlands,Fairphone 2,FP2,Phone,plastic,5,,,,1080 x 1920 px,
+True,Google,USA,Android One 2nd Gen,seed,Phone,,4.5,2.2 x 3.9,16:9,320 x 569 dp,480 x 854 px,1.5 hdpi
+True,Google,USA,Galaxy Nexus GSM,maguro,Phone,,,,,,,
+True,Google,USA,Galaxy Nexus LTE (Sprint),toroplus,Phone,,,,,,,
+True,Google,USA,Galaxy Nexus LTE (Verizon),toro,Phone,,,,,,,
+True,Google,USA,Nexus 10,manta,Tablet,,10.1,8.6 x 5.4,16:10,1280 x 800 dp,2560 x 1600 px,2.0 xhdpi
+True,Google,USA,Nexus 4,mako,Phone,,4.7,3.2 x 4.0,5:3,384 x 640 dp,768 x 1280 px,2.0 xhdpi
+True,Google,USA,Nexus 5,hammerhead,Phone,,5,2.4 x 4.3,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Google,USA,Nexus 5X,bullhead,Phone,,5.2,2.5 x 4.5,16:9,411 x 731 dp,1080 x 1920 px,2.6 xxhdpi
+True,Google,USA,Nexus 6,shamu,Phablet,,6,2.9 x 5.2,16:9,411 x 731 dp,1440 x 2560 px,3.5 xxxhdpi
+True,Google,USA,Nexus 6P,angler,Phablet,,5.7,2.8 x 5.0,16:9,411 x 731 dp,1440 x 2560 px,3.5 xxxhdpi
+True,Google,USA,Nexus 7 (LTE 2013 version),deb,Phablet,,7,3.7 x 5.9,16:10,600 x 960 dp,800 x 1280 px,1.3 tvdpi
+True,Google,USA,Nexus 7 (Wi-Fi 2013 version),flo,Tablet,,7,3.7 x 5.9,16:10,600 x 960 dp,800 x 1280 px,1.3 tvdpi
+True,Google,USA,Nexus 9 (LTE),flounder_lte,Tablet,,8.9,7.1 x 5.3,4:3,1024 x 768 dp,2048 x 1536 px,2.0 xhdpi
+True,Google,USA,Nexus 9 (Wi-Fi),flounder,Tablet,,8.9,7.1 x 5.3,4:3,1024 x 768 dp,2048 x 1536 px,2.0 xhdpi
+True,Google,USA,Nexus Player,fugu,Set top box,,,,,,,
+True,Google,USA,Pixel,sailfish,Phone,,5,2.5 x 4.4,16:9,411 x 731 dp,1080 x 1920 px,2.6 xxhdpi
+True,Google,USA,Pixel C,dragon,Tablet,,,,,,,
+True,Google,USA,Pixel XL,marlin,Phone,,5.5,2.7 x 4.8,16:9,411 x 731 dp,1440 x 2560 px,3.5 xxxhdpi
+True,HTC,Taiwan,10,pme,Phone,,,,,,,
+True,HTC,Taiwan,One (GSM),m7,Phone,,,,,,,
+True,HTC,Taiwan,One (M8),m8,Phone,,5,2.5 x 4.4,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,HTC,Taiwan,One (M8) Dual SIM,m8d,Phone,,,,,,,
+True,HTC,Taiwan,One (Verizon),m7vzw,Phone,,,,,,,
+True,HTC,Taiwan,One A9,hiae,Phone,,,,,,,
+True,HTC,Taiwan,One M9 (GSM),himaul,Phone,,,,,,,
+True,HTC,Taiwan,One M9 (Verizon),himawl,Phone,,,,,,,
+True,HTC,Taiwan,One Max (GSM),t6,Phone,,,,,,,
+True,HTC,Taiwan,One Max (Verizon),t6vzw,Phone,,,,,,,
+True,Huawei,China,Ascend Mate 2 4G,mt2,Phablet,,,,,,,
+True,Huawei,China,Honor 4/4X (Unified),cherry,Phablet,,,,,,,
+True,Huawei,China,Honor 4x (China Telecom),che10,Phablet,,,,,,,
+True,Huawei,China,Honor 5X,kiwi,Phone,,,,,,,
+True,LG,Korea,G Pad 7.0 (LTE),v410,Tablet,,,,,,,
+True,LG,Korea,G Pad 7.0 WiFi,v400,Tablet,,,,,,,
+True,LG,Korea,G Pad 8.0 (Wi-Fi),v480,Tablet,,,,,,,
+True,LG,Korea,G Pad 8.3,v500,Tablet,,,,,,,
+True,LG,Korea,G Pad X (T-Mobile),v521,Tablet,,,,,,,
+True,LG,Korea,G2 (AT&T),d800,Phone,,5.2,2.5 x 4.5,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,LG,Korea,G2 (Canadian),d803,Phone,,5.2,2.5 x 4.5,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,LG,Korea,G2 (International),d802,Phone,,5.2,2.5 x 4.5,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,LG,Korea,G2 (T-Mobile),d801,Phone,,5.2,2.5 x 4.5,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,LG,Korea,G2 Mini,g2m,Phone,,,,,,,
+True,LG,Korea,G3 (AT&T),d850,Phone,,5.5,2.7 x 4.8,16:9,480 x 853 dp,1440 x 2560 px,3.0 xxhdpi
+True,LG,Korea,G3 (Canada),d852,Phone,,5.5,2.7 x 4.8,16:9,480 x 853 dp,1440 x 2560 px,3.0 xxhdpi
+True,LG,Korea,G3 (International),d855,Phone,,5.5,2.7 x 4.8,16:9,480 x 853 dp,1440 x 2560 px,3.0 xxhdpi
+True,LG,Korea,G3 (Korea),f400,Phone,,5.5,2.7 x 4.8,16:9,480 x 853 dp,1440 x 2560 px,3.0 xxhdpi
+True,LG,Korea,G3 (Sprint),ls990,Phone,,5.5,2.7 x 4.8,16:9,480 x 853 dp,1440 x 2560 px,3.0 xxhdpi
+True,LG,Korea,G3 (T-Mobile),d851,Phone,,5.5,2.7 x 4.8,16:9,480 x 853 dp,1440 x 2560 px,3.0 xxhdpi
+True,LG,Korea,G3 (Verizon),vs985,Phone,,5.5,2.7 x 4.8,16:9,480 x 853 dp,1440 x 2560 px,3.0 xxhdpi
+True,LG,Korea,G3 Beat,jagnm,Phone,,5.5,2.7 x 4.8,16:9,480 x 853 dp,1440 x 2560 px,3.0 xxhdpi
+True,LG,Korea,G3 S,jag3gds,Phone,,5.5,2.7 x 4.8,16:9,480 x 853 dp,1440 x 2560 px,3.0 xxhdpi
+True,LG,Korea,G4 (International),h815,Phone,,,,,,,
+True,LG,Korea,G4 (T-Mobile),h811,Phone,,,,,,,
+True,LG,Korea,G5 (International),h850,Phone,,,,,,,
+True,LG,Korea,G5 (T-Mobile),h830,Phone,,,,,,,
+True,LG,Korea,G6 (EU Unlocked),h870,Phone,,,,,,,
+True,LG,Korea,G6 (US Unlocked),us997,Phone,,,,,,,
+True,LG,Korea,K10,m216,Phone,,,,,,,
+True,LG,Korea,L90,w7,Phone,,,,,,,
+True,LG,Korea,Optimus L70,w5,Phone,,,,,,,
+True,LG,Korea,V20 (AT&T),h910,Phone,,,,,,,
+True,LG,Korea,V20 (Sprint),ls997,Phone,,,,,,,
+True,LG,Korea,V20 (T-Mobile),h918,Phone,,,,,,,
+True,LG,Korea,V20 (US Unlocked),us996,Phone,,,,,,,
+True,LG,Korea,V20 (Verizon),vs995,Phone,,,,,,,
+True,LeEco,China,Le 2,s2,Phone,,,,,,,
+True,LeEco,China,Le Max2,x2,Phone,,,,,,,
+True,LeEco,China,Le Pro3 / Le Pro3 Elite,zl1,Phone,,,,,,,
+True,Lenovo,China,P2,kuntao,Phone,,,,,,,
+True,Lenovo,China,Vibe K5 / K5 Plus,A6020,Phone,,,,,,,
+True,Lenovo,China,Vibe Z2 Pro,kingdom,Phone,,,,,,,
+True,Lenovo,China,Yoga Tab 3 Plus LTE,YTX703L,Tablet,,,,,,,
+True,Lenovo,China,Yoga Tab 3 Plus Wi-Fi,YTX703F,Tablet,,,,,,,
+True,Motorola,USA,Droid 4,maserati,Phone (slider),,,,,,,
+True,Motorola,USA,Droid Bionic,targa,Phone,,,,,,,
+True,Motorola,USA,Droid RAZR/RAZR MAXX (CDMA),spyder,Phone,,,,,,,
+True,Motorola,USA,Moto E,condor,Phone,,,,,,,
+True,Motorola,USA,Moto E 2015,otus,Phone,,,,,,,
+True,Motorola,USA,Moto E 2015 LTE,surnia,Phone,,,,,,,
+True,Motorola,USA,Moto G,falcon,Phone,,4.5,2.2 x 3.9,16:9,360 x 640 dp,720 x 1280 px,2.0 xhdpi
+True,Motorola,USA,Moto G 2014,titan,Phone,,4.5,2.2 x 3.9,16:9,360 x 640 dp,720 x 1280 px,2.0 xhdpi
+True,Motorola,USA,Moto G 2014 LTE,thea,Phone,,4.5,2.2 x 3.9,16:9,360 x 640 dp,720 x 1280 px,2.0 xhdpi
+True,Motorola,USA,Moto G 2015,osprey,Phone,,4.5,2.2 x 3.9,16:9,360 x 640 dp,720 x 1280 px,2.0 xhdpi
+True,Motorola,USA,Moto G 4G,peregrine,Phone,,4.5,2.2 x 3.9,16:9,360 x 640 dp,720 x 1280 px,2.0 xhdpi
+True,Motorola,USA,Moto G3 Turbo,merlin,Phone,,,,,,,
+True,Motorola,USA,Moto G4,athene,Phone,,,,,,,
+True,Motorola,USA,Moto G4 Play,harpia,Phone,,,,,,,
+True,Motorola,USA,Moto X,ghost,Phone,,4.7,2.3 x 4.1,16:9,360 x 640 dp,720 x 1280 px,2.0 xhdpi
+True,Motorola,USA,Moto X 2014,victara,Phone,,5.2,2.5 x 4.5,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Motorola,USA,Moto X Play,lux,Phone,,5.2,2.5 x 4.5,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Motorola,USA,Moto X Pure Edition/Style (2015),clark,Phone,,5.2,2.5 x 4.5,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Motorola,USA,Moto X4,payton,Phone,,,,,,,
+True,Motorola,USA,Moto Z,griffin,Phone,,,,,,,
+True,Motorola,USA,Moto Z Play,addison,Phone,,,,,,,
+True,Motorola,USA,Moto Z2 Force,nash,Phone,,,,,,,
+True,Motorola,USA,Moto Z2 Play,albus,Phone,,,,,,,
+True,Motorola,USA,Photon Q 4G LTE,xt897,Phone (slider),,,,,,,
+True,Motorola,USA,RAZR/RAZR MAXX (GSM),umts_spyder,Phone,,,,,,,
+True,Nextbit,USA,Robin,ether,Phone,,,,,,,
+True,ZTE,China,NubiaZ 9 Max,nx512j,Phone,,,,,,,
+True,Nvidia,USA,Shield Android TV,foster,Set top box,,,,,,,
+True,Nvidia,USA,Shield Portable,roth,Handheld game console,,,,,,,
+True,Nvidia,USA,Shield Tablet,shieldtablet,Tablet,,,,,,,
+True,OPPO,China,Find 7a/s,find7,Phone,,,,,,,
+True,OPPO,China,N3,n3,Phone,,,,,,,
+True,OPPO,China,R5/R5s (International),r5,Phone,,,,,,,
+True,OPPO,China,R7 Plus (International),r7plus,Phone,,,,,,,
+True,OPPO,China,R7s (International),r7sf,Phone,,,,,,,
+True,OnePlus,China,OnePlus 2,oneplus2,Phone,,,,,,,
+True,OnePlus,China,OnePlus 3 / 3T,oneplus3,Phone,,,,,,,
+True,OnePlus,China,OnePlus 5,cheeseburger,Phone,,,,,,,
+True,OnePlus,China,OnePlus 5T,dumpling,Phone,,,,,,,
+True,OnePlus,China,OnePlus One,bacon,Phone,,,,,,,
+True,OnePlus,China,OnePlus X,onyx,Phone,,,,,,,
+True,Samsung,Korea,Galaxy A5 (2017),a5y17lte,Phone,,,,,,,
+True,Samsung,Korea,Galaxy A7 (2017),a7y17lte,Phone,,,,,,,
+True,Samsung,Korea,Galaxy Note 10.1 2014 (LTE),lt03lte,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Note 10.1 Wi-Fi (2014),n1awifi,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Note 2 (LTE),t0lte,Phone,,,,,,,
+True,Samsung,Korea,Galaxy Note 3 (International 3G),ha3g,Phone,,,,,,,
+True,Samsung,Korea,Galaxy Note 3 LTE (N9005/P),hlte,Phone,,,,,,,
+True,Samsung,Korea,Galaxy Note 3 LTE (N900T/V/W8),hltetmo,Phone,,,,,,,
+True,Samsung,Korea,Galaxy Note 8.0 (GSM),n5100,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Note 8.0 (LTE),n5120,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Note 8.0 (Wi-Fi),n5110,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Note Pro 12.2 Wi-Fi,v1awifi,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy S II,i9100,Phone,,,,,,,
+True,Samsung,Korea,Galaxy S III (AT&T),d2att,Phone,,,,,,,
+True,Samsung,Korea,Galaxy S III (International),i9300,Phone,,,,,,,
+True,Samsung,Korea,Galaxy S III (LTE / International),i9305,Phone,,,,,,,
+True,Samsung,Korea,Galaxy S III (Sprint),d2spr,Phone,,,,,,,
+True,Samsung,Korea,Galaxy S III (T-Mobile),d2tmo,Phone,,,,,,,
+True,Samsung,Korea,Galaxy S III (Verizon),d2vzw,Phone,,,,,,,
+True,Samsung,Korea,Galaxy S4 (GT-I9505/G and SGH-M919),jfltexx,Phone,,,,,,,
+True,Samsung,Korea,Galaxy S4 (Verizon),jfltevzw,Phone,,,,,,,
+True,Samsung,Korea,Galaxy S4 LTE-A (GT-I9506),ks01lte,Phone,,,,,,,
+True,Samsung,Korea,Galaxy S4 Mini (International 3G),serrano3gxx,Phone,,,,,,,
+True,Samsung,Korea,Galaxy S4 Mini (International Dual SIM),serranodsdd,Phone,,,,,,,
+True,Samsung,Korea,Galaxy S4 Mini (International LTE),serranoltexx,Phone,,,,,,,
+True,Samsung,Korea,Galaxy S5 (International 3G),k3gxx,Phone,,5.1,2.9 x 5.6,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Samsung,Korea,Galaxy S5 Active,klteactivexx,Phone,,5.1,2.9 x 5.6,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Samsung,Korea,Galaxy S5 LTE (G9006V/8V),kltechn,Phone,,5.1,2.9 x 5.6,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Samsung,Korea,Galaxy S5 LTE (G900AZ/F/M/R4/R7/T/V/W8 S902L),klte,Phone,,5.1,2.9 x 5.6,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Samsung,Korea,Galaxy S5 LTE (G900I/P),kltedv,Phone,,5.1,2.9 x 5.6,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Samsung,Korea,Galaxy S5 LTE (G900K/L/S),kltekor,Phone,,5.1,2.9 x 5.6,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Samsung,Korea,Galaxy S5 LTE (SCL23),kltekdi,Phone,,5.1,2.9 x 5.6,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Samsung,Korea,Galaxy S5 LTE Duos (G9006W/8W),kltechnduo,Phone,,5.1,2.9 x 5.6,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Samsung,Korea,Galaxy S5 LTE Duos (G900FD/MD),klteduos,Phone,,5.1,2.9 x 5.6,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Samsung,Korea,Galaxy S5 LTE-A,lentislte,Phone,,5.1,2.9 x 5.6,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Samsung,Korea,Galaxy S5 Plus,kccat6,Phone,,5.1,2.9 x 5.6,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Samsung,Korea,Galaxy S5 Sport,kltesprsports,Phone,,5.1,2.9 x 5.6,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Samsung,Korea,Galaxy S6,zerofltexx,Phone,,5.1,2.5 x 4.4,16:9,360 x 640 dp,1440 x 2560 px,4.0 xxxhdpi
+True,Samsung,Korea,Galaxy S6 Edge,zeroltexx,Phone,,,,,,,
+True,Samsung,Korea,Galaxy S7,herolte,Phone,,5.1,2.5 x 4.4,16:9,360 x 640 dp,1440 x 2560 px,4.0 xxxhdpi
+True,Samsung,Korea,Galaxy S7 Edge,hero2lte,Phone,,5.5,2.7 x 4.8,16:9,360 x 640 dp,1440 x 2560 px,4.0 xxxhdpi
+True,Samsung,Korea,Galaxy S9,starlte,Phone,,,,,,,
+True,Samsung,Korea,Galaxy S9+,star2lte,Phone,,,,,,,
+True,Samsung,Korea,Galaxy Tab 2 7.0 / Tab 2 10.1 (GSM),espresso3g,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Tab 2 7.0 / Tab 2 10.1 (Wi-Fi / Wi-Fi + IR),espressowifi,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Tab 3 7.0 LTE,lt02ltespr,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Tab E 8.0 LTE (Sprint),gtesqltespr,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Tab E 9.6 (WiFi),gtelwifiue,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Tab PRO 10.1,n2awifi,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Tab Pro 8.4,mondrianwifi,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Tab S 10.5 LTE,chagalllte,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Tab S 10.5 Wi-Fi,chagallwifi,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Tab S 8.4 Wi-Fi,klimtwifi,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Tab S2 8.0 Wi-Fi (2016),gts28vewifi,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Tab S2 9.7 (LTE),gts210ltexx,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Tab S2 9.7 (Wi-Fi),gts210wifi,Tablet,,,,,,,
+True,Samsung,Korea,Galaxy Tab S2 9.7 Wi-Fi (2016),gts210vewifi,Tablet,,,,,,,
+True,Sony,Japan,Xperia L,taoshan,Phone,,,,,,,
+True,Sony,Japan,Xperia M,nicki,Phone,,,,,,,
+True,Sony,Japan,Xperia SP,huashan,Phone,,,,,,,
+True,Sony,Japan,Xperia T,mint,Phone,,,,,,,
+True,Sony,Japan,Xperia TX,hayabusa,Phone,,,,,,,
+True,Sony,Japan,Xperia Tablet Z LTE,pollux,Tablet,,,,,,,
+True,Sony,Japan,Xperia Tablet Z Wi-Fi,pollux_windy,Tablet,,,,,,,
+True,Sony,Japan,Xperia V,tsubasa,Phone,,,,,,,
+True,Sony,Japan,Xperia XA2,pioneer,Phone,,,,,,,
+True,Sony,Japan,Xperia Z,yuga,Phone,,,,,,,
+True,Sony,Japan,Xperia Z3+,ivy,Phone,,5.2,2.5 x 4.5,16:9,360 x 640 dp,1080 x 1920 px,3.0 xxhdpi
+True,Sony,Japan,Xperia Z4 Tablet LTE,karin,Tablet,,10.1,8.6 x 5.4,16:10,1280 x 800 dp,2560 x 1600 px,2.0 xhdpi
+True,Sony,Japan,Xperia Z4 Tablet WiFi,karin_windy,Tablet,,10.1,8.6 x 5.4,16:10,1280 x 800 dp,2560 x 1600 px,2.0 xhdpi
+True,Sony,Japan,Xperia Z5,sumire,Phone,,,,,,,
+True,Sony,Japan,Xperia Z5 Compact,suzuran,Phone,,,,,,,
+True,Sony,Japan,Xperia ZL,odin,Phone,,,,,,,
+True,Sony,Japan,Xperia ZR,dogo,Phone,,,,,,,
+True,Wileyfox,UK,Storm,kipper,Phone,,,,,,,
+True,Wileyfox,UK,Swift,crackling,Phone,metal,,,,,,
+True,Wingtech,China,Redmi 2,wt88047,Phone,,,,,,,
+True,Xiaomi,China,Mi 3 / Mi 4,cancro,Phone,,,,,,,
+True,Xiaomi,China,Mi 4c,libra,Phone,,,,,,,
+True,Xiaomi,China,Mi 5,gemini,Phone,,,,,,,
+True,Xiaomi,China,Mi 5s,capricorn,Phone,,,,,,,
+True,Xiaomi,China,Mi 5s Plus,natrium,Phone,,,,,,,
+True,Xiaomi,China,Mi 6,sagit,Phone,,,,,,,
+True,Xiaomi,China,Mi A1,tissot,Phone,,,,,,,
+True,Xiaomi,China,Mi MIX,lithium,Phone,,,,,,,
+True,Xiaomi,China,Mi MIX 2,chiron,Phone,,,,,,,
+True,Xiaomi,China,Mi Max,hydrogen,Phone,,,,,,,
+True,Xiaomi,China,Mi Note 2,scorpio,Phone,,,,,,,
+True,Xiaomi,China,Mi Note 3,jason,Phone,,,,,,,
+True,Xiaomi,China,Redmi 1S,armani,Phone,,,,,,,
+True,Xiaomi,China,Redmi 3/Prime,ido,Phone,,,,,,,
+True,Xiaomi,China,Redmi 3S/3X,land,Phone,,,,,,,
+True,Xiaomi,China,Redmi 4(X),santoni,Phone,,,,,,,
+True,Xiaomi,China,Redmi Note 3,kenzo,Phone,,,,,,,
+True,Xiaomi,China,Redmi Note 4,mido,Phone,,,,,,,
+True,Xiaomi,China,Redmi Note 5 Pro,whyred,Phone,,,,,,,
+True,YU,India,Yunique,jalebi,Phone,,,,,,,
+True,YU,India,Yuphoria,lettuce,Phone,,,,,,,
+True,YU,India,Yureka / Yureka Plus,tomato,Phone,,,,,,,
+True,ZTE,China,AT&T Trek 2 HD,jasmine,Tablet,,,,,,,
+True,ZTE,China,Axon 7,axon7,Phone,,,,,,,
+True,ZTE,China,Axon 7 Mini,tulip,Phone,,,,,,,
+True,ZUK,China,Z1,ham,Phone,,,,,,,
