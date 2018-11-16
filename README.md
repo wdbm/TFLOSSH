@@ -12,7 +12,7 @@ This repository is intended to be a non-exhaustive source of information on devi
 
 - extreme warning: they feature no nipple
 - [System76](https://system76.com/laptops)
-- [System76 Bonobo WS 17' (featuring GPU Nvidia 10-series](https://system76.com/laptops/bonobo)
+- [System76 Bonobo WS 17' (featuring GPU Nvidia 10-series)](https://system76.com/laptops/bonobo)
 
 # LineageOS devices
 
