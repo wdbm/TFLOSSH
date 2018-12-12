@@ -1,5 +1,7 @@
 # TFLOSSH
 
+![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/rainbow-gathering-gallery-876-786-1479897428.png)
+
 *Towards* Free/Libre and Open Source Software and Hardware
 
 This repository is intended to be a non-exhaustive source of information on devices and software that are part of a journey towards Free/Libre Open Source Software and Hardware.
@@ -10,7 +12,7 @@ This repository is intended to be a non-exhaustive source of information on devi
 
 - extreme warning: they feature no nipple
 - [System76](https://system76.com/laptops)
-- [System76 Bonobo WS 17' (featuring GPU Nvidia 10-series](https://system76.com/laptops/bonobo)
+- [System76 Bonobo WS 17' (featuring GPU Nvidia 10-series)](https://system76.com/laptops/bonobo)
 
 # LineageOS devices
 
@@ -32,6 +34,14 @@ This repository is intended to be a non-exhaustive source of information on devi
 # Libreboot, not BIOS or UEFI
 
 - <https://libreboot.org/suppliers.html>
+
+# VPNs
+
+![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/2018-11-10T184615.png)
+
+## setup of NordVPN via APK 2018-11-11T0252Z
+
+- <https://nordvpn.com/tutorials/android/apk/>
 
 # links
 
