@@ -4,6 +4,14 @@
 
 This repository is intended to be a non-exhaustive source of information on devices and software that are part of a journey towards Free/Libre Open Source Software and Hardware.
 
+# laptop devices
+
+## System76
+
+- extreme warning: they feature no nipple
+- [System76](https://system76.com/laptops)
+- [System76 Bonobo WS 17' (featuring GPU Nvidia 10-series](https://system76.com/laptops/bonobo)
+
 # LineageOS devices
 
 |**data**                      |**description**  |
@@ -24,3 +32,8 @@ This repository is intended to be a non-exhaustive source of information on devi
 # Libreboot, not BIOS or UEFI
 
 - <https://libreboot.org/suppliers.html>
+
+# links
+
+- [Unofficial List and Spec Sheet of Officially Supported LineageOS devices](https://docs.google.com/spreadsheets/d/1swcOWw_KcSaE8otSa-1rthq7bLLmfsNZMWnVF5XCd1o/edit#gid=0)
+    - [Reddit](https://www.reddit.com/r/LineageOS/comments/7w6nl3/unofficial_list_and_spec_sheet_of_officially/)
