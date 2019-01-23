@@ -1,5 +1,7 @@
 # Asus ZenFone Max Pro M1
 
+![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/2019-01-23T0444Z.png)
+
 - model/codename: ASUS_X00TD
 
 # motivations
