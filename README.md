@@ -16,9 +16,10 @@ This repository is intended to be a non-exhaustive source of information on devi
 
 # LineageOS devices
 
-|**data**                      |**description**  |
-|------------------------------|-----------------|
-|[devices.ipynb](devices.ipynb)|LineageOS devices|
+|**documentation/data**             |**description**             |
+|-----------------------------------|----------------------------|
+|[devices.ipynb](devices.ipynb)     |LineageOS devices comparison|
+|[Asus ZenFone Max Pro M1](X00TD.md)|device setup documentation  |
 
 # background
 
