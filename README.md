@@ -44,5 +44,8 @@ This repository is intended to be a non-exhaustive source of information on devi
 
 # links
 
+- [*Why we need GNU/Linux on mobile devices (now more than ever)* -- Jan Sprinz (2018-12-30)](https://c3lt.de/35c3/talk/BRKHHG)
+    - [video](https://media.ccc.de/v/35c3-9568-lightning_talks_day_4#t=5291)
+    - [slides](https://c3lt.de/media/gnulinuxonmobile_1PTZODs.pdf)
 - [Unofficial List and Spec Sheet of Officially Supported LineageOS devices](https://docs.google.com/spreadsheets/d/1swcOWw_KcSaE8otSa-1rthq7bLLmfsNZMWnVF5XCd1o/edit#gid=0)
     - [Reddit](https://www.reddit.com/r/LineageOS/comments/7w6nl3/unofficial_list_and_spec_sheet_of_officially/)
