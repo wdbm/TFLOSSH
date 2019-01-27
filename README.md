@@ -42,7 +42,9 @@ This repository is intended to be a non-exhaustive source of information on devi
 - [*The Big Hack: How China Used a Tiny Chip to Infiltrate U.S. Companies*](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies) -- Jordan Robertson
 and Michael Riley (Bloomberg) (2018-10-04)
 
-## Why GNU/Linux on mobile devices is needed, the 2018-12-30 state GNU/Linux on mobile devices and the threats of Android and iOS: [*Why we need GNU/Linux on mobile devices (now more than ever)*](https://c3lt.de/35c3/talk/BRKHHG) -- [Jan Sprinz](https://github.com/neothethird) (35th Chaos Communication Congress (35C3) Lightning Talks)) (2018-12-30)
+## Why GNU/Linux on mobile devices is needed, the 2018-12-30 state GNU/Linux on mobile devices and the threats of Android and iOS
+
+- [*Why we need GNU/Linux on mobile devices (now more than ever)*](https://c3lt.de/35c3/talk/BRKHHG) -- [Jan Sprinz](https://github.com/neothethird) (35th Chaos Communication Congress (35C3) Lightning Talks)) (2018-12-30)
 
 # FOSS laptops
 
