@@ -8,15 +8,21 @@ This repository is intended to be a non-exhaustive source of information on devi
 
 - [Terminology](#terminology)
 - [Why free/libre and open source is needed](#why-freelibre-and-open-source-is-needed)
-    - [Intel Management Engine](intel-management-engine)
-    - [AWS Elemental PLA chips](aws-elemental-pla-chips)
+    - [Intel Management Engine](#intel-management-engine)
+    - [AWS Elemental PLA chips](#aws-elemental-pla-chips)
 - [Why GNU/Linux on mobile devices is needed](#why-GNU/Linux-on-mobile-devices-is-needed)
 - [FOSS laptops](#foss-laptops)
     - [System76](#system76)
 - [FOSS mobile devices](#foss-mobile-devices)
     - [LineageOS](#lineageos)
-        - [LineageOS devices comparison]()
-        - [Asus ZenFone Max Pro M1 (X00TD)](asus-zenfone-max-pro-m1-x00td)
+        - [LineageOS devices comparison](#lineageos-devices-comparison)
+        - [Asus ZenFone Max Pro M1 (X00TD)](#asus-zenfone-max-pro-m1-x00td)
+    - [UBports Ubuntu Touch](#ubports-ubuntu-touch)
+        - [UBports Ubuntu Touch devices](#ubports-ubuntu-touch-devices)
+        - [UBports Ubuntu Touch Meizu Pro 5 (turbo)](#ubports-ubuntu-touch-meizu-pro-5-turbo)
+    - [Librem PureOS](#librem-pureos)
+    - [Librem 5 (upcoming)](#librem-5-upcoming)
+    - [Applications solutions for LineageOS and Ubuntu Touch](#applications-solutions-for-lineageos-and-ubuntu-touch)
 - [Libreboot](#libreboot)
 - [Other](#other)
 
@@ -70,9 +76,7 @@ and Michael Riley (Bloomberg) (2018-10-04)
 
 - [Asus ZenFone Max Pro M1 (X00TD) device setup documentation](X00TD.md)
 
-## UBports Ubuntu Touch Meizu Pro 5 (turbo)
-
-This is a device capable of running UBports Ubuntu Touch 16.04 LTS with Anbox for Android applications.
+## UBports Ubuntu Touch
 
 - upcoming documentation
 
@@ -80,7 +84,11 @@ This is a device capable of running UBports Ubuntu Touch 16.04 LTS with Anbox fo
 
 - [UBports Ubuntu Touch devices](https://devices.ubuntu-touch.io)
 
-### UBports Ubuntu Touch 
+### UBports Ubuntu Touch Meizu Pro 5 (turbo)
+
+This is a device capable of running UBports Ubuntu Touch 16.04 LTS with Anbox for Android applications.
+
+- upcoming documentation
 
 ## Librem PureOS
 
