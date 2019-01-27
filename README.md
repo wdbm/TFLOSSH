@@ -58,7 +58,7 @@ and Michael Riley (Bloomberg) (2018-10-04)
 
 - [*Why we need GNU/Linux on mobile devices (now more than ever)*](https://c3lt.de/35c3/talk/BRKHHG) -- [Jan Sprinz](https://github.com/neothethird)
 
-# LineageOS
+## LineageOS
 
 ### LineageOS devices comparison
 
@@ -66,9 +66,27 @@ and Michael Riley (Bloomberg) (2018-10-04)
 - [Unofficial List and Spec Sheet of Officially Supported LineageOS devices](https://docs.google.com/spreadsheets/d/1swcOWw_KcSaE8otSa-1rthq7bLLmfsNZMWnVF5XCd1o/edit#gid=0)
     - [Reddit](https://www.reddit.com/r/LineageOS/comments/7w6nl3/unofficial_list_and_spec_sheet_of_officially/)
 
-### Asus ZenFone Max Pro M1 (X00TD)
+### LineageOS Asus ZenFone Max Pro M1 (X00TD)
 
 - [Asus ZenFone Max Pro M1 (X00TD) device setup documentation](X00TD.md)
+
+## UBports Ubuntu Touch Meizu Pro 5 (turbo)
+
+This is a device capable of running UBports Ubuntu Touch 16.04 LTS with Anbox for Android applications.
+
+- upcoming documentation
+
+### UBports Ubuntu Touch devices
+
+- [UBports Ubuntu Touch devices](https://devices.ubuntu-touch.io)
+
+### UBports Ubuntu Touch 
+
+## Librem PureOS
+
+### Librem 5 (upcoming)
+
+- [Librem 5](https://puri.sm/products/librem-5)
 
 # Libreboot, not BIOS or UEFI
 
