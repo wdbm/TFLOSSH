@@ -88,13 +88,15 @@ This is a device capable of running UBports Ubuntu Touch 16.04 LTS with Anbox fo
 
 - [Librem 5](https://puri.sm/products/librem-5)
 
-# Libreboot, not BIOS or UEFI
+# Libreboot
 
 Libreboot is a free and open source BIOS or UEFI replacement.
 
 - [Libreboot](https://libreboot.org)
 
-# VPNs
+# Other
+
+## VPNs
 
 ![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/2018-11-10T184615.png)
 
