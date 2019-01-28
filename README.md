@@ -96,6 +96,10 @@ This is a device capable of running UBports Ubuntu Touch 16.04 LTS with Anbox fo
 
 - [Librem 5](https://puri.sm/products/librem-5)
 
+## Applications solutions for LineageOS and Ubuntu Touch
+
+- [Applications solutions for LineageOS and Ubuntu Touch](applications.md)
+
 # Libreboot
 
 Libreboot is a free and open source BIOS or UEFI replacement.
