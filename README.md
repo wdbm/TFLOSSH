@@ -50,7 +50,7 @@ and Michael Riley (Bloomberg) (2018-10-04)
 
 ## Why GNU/Linux on mobile devices is needed
 
-- The 2018-12-30 state of GNU/Linux on mobile devices and the threats of Android and iOS: [*Why we need GNU/Linux on mobile devices (now more than ever)*](https://c3lt.de/35c3/talk/BRKHHG) -- [Jan Sprinz](https://github.com/neothethird) (35th Chaos Communication Congress (35C3) Lightning Talks)) (2018-12-30)
+- The 2018-12-30 state of GNU/Linux on mobile devices and the threats of Android and iOS: [*Why we need GNU/Linux on mobile devices (now more than ever)*](https://c3lt.de/35c3/talk/BRKHHG) -- [Jan Sprinz](https://github.com/neothethird) (35th Chaos Communication Congress (35C3) Lightning Talks) (2018-12-30)
 
 # FOSS laptops
 
