@@ -10,6 +10,7 @@ This repository is intended to be a non-exhaustive source of information on devi
 - [Why free/libre and open source is needed](#why-freelibre-and-open-source-is-needed)
     - [Intel Management Engine](#intel-management-engine)
     - [AWS Elemental PLA chips](#aws-elemental-pla-chips)
+- [Priority free/libre and open projects](#priority-freelibre-and-open-projects)
 - [Why GNU/Linux on mobile devices is needed](#why-GNU/Linux-on-mobile-devices-is-needed)
 - [Why Google is dangerous](#why-google-is-dangerous)
 - [FOSS laptops](#foss-laptops)
@@ -48,6 +49,10 @@ This repository is intended to be a non-exhaustive source of information on devi
 
 - [*The Big Hack: How China Used a Tiny Chip to Infiltrate U.S. Companies*](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies) -- Jordan Robertson
 and Michael Riley (Bloomberg) (2018-10-04)
+
+## Priority free/libre and open projects
+
+- [High Priority Free Software Projects](https://www.fsf.org/campaigns/priority-projects) -- Free Software Foundation
 
 ## Why GNU/Linux on mobile devices is needed
 
