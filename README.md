@@ -11,6 +11,7 @@ This repository is intended to be a non-exhaustive source of information on devi
     - [Intel Management Engine](#intel-management-engine)
     - [AWS Elemental PLA chips](#aws-elemental-pla-chips)
 - [Why GNU/Linux on mobile devices is needed](#why-GNU/Linux-on-mobile-devices-is-needed)
+- [Why Google is dangerous](#why-google-is-dangerous)
 - [FOSS laptops](#foss-laptops)
     - [System76](#system76)
 - [FOSS mobile devices](#foss-mobile-devices)
@@ -51,6 +52,10 @@ and Michael Riley (Bloomberg) (2018-10-04)
 ## Why GNU/Linux on mobile devices is needed
 
 - The 2018-12-30 state of GNU/Linux on mobile devices and the threats of Android and iOS: [*Why we need GNU/Linux on mobile devices (now more than ever)*](https://c3lt.de/35c3/talk/BRKHHG) -- [Jan Sprinz](https://github.com/neothethird) (35th Chaos Communication Congress (35C3) Lightning Talks) (2018-12-30)
+
+## Why Google is dangerous
+
+- [*I Cut Google Out Of My Life. It Screwed Up Everything*](https://gizmodo.com/i-cut-google-out-of-my-life-it-screwed-up-everything-1830565500) -- Kashmir Hill (2019-01-29)
 
 # FOSS laptops
 
