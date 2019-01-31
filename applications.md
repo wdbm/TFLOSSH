@@ -1,6 +1,10 @@
 # Applications solutions for LineageOS and Ubuntu Touch
 
-[F-Droid](https://f-droid.org) is a community-maintained software repository. The main repository, hosted by the project, features only free libre software. Other repositories can be added to F-Droid. The [Yalp Store](https://f-droid.org/en/packages/com.github.yeriomin.yalpstore) can be installed via F-Droid in order to download applications from the Google Play Store.
+[F-Droid](https://f-droid.org) is a community-maintained software repository. The main repository, hosted by the project, features only free libre software. Other repositories can be added to F-Droid. The [Yalp Store](https://f-droid.org/en/packages/com.github.yeriomin.yalpstore) can be installed via F-Droid in order to download applications from the Google Play Store without login.
+
+Some solutions offered depend on Nextcloud, specifically synchronisation of files, contacts and calendars. Introduction, setup and usage documentation on Nextcloud can be found [here](https://github.com/wdbm/resources_Nextcloud/blob/master/documentation/documentation.md).
+
+[Free Software Apps](https://fsfe.org/campaigns/android/liberate.html#Apps) -- Free Software Foundation Europe
 
 |**application**                 |**category**                                  |**LineageOS solution**                                                                                                                                        |**Ubuntu Touch solution**                                                                                                               |**comment**                                                                                      |**solution for both LineageOS and Ubuntu Touch?**|
 |--------------------------------|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------|
