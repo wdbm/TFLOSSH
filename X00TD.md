@@ -1,6 +1,6 @@
 # Asus ZenFone Max Pro M1
 
-![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/2019-01-23T0444Z.png)
+![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/2019-01-31T2238Z.png)
 
 - model/codename: ASUS_X00TD
 
@@ -13,6 +13,8 @@
 # setup: LineageOS, F-Droid, TWRP 2019-01
 
 This setup procedure resulted in a standard device being unlocked using the Asus official method and then having LineageOS, F-Droid and TWRP installed on it. It does not feature Open GApps (so it does not feature proprietary Google features that come preinstalled on most Android devices, such as Google Play).
+
+![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/2019-01-23T0444Z.png)
 
 ## enable developer mode, ADB
 
