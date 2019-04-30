@@ -49,6 +49,7 @@ This repository is intended to be a non-exhaustive source of information on devi
 
 - [*The Big Hack: How China Used a Tiny Chip to Infiltrate U.S. Companies*](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies) -- Jordan Robertson
 and Michael Riley (Bloomberg) (2018-10-04)
+- [*Vodafone Found Hidden Backdoors in Huawei Equipment*](https://www.bloomberg.com/news/articles/2019-04-30/vodafone-found-hidden-backdoors-in-huawei-equipment) -- Daniele Lepido (2019-04-29)
 
 ## Priority free/libre and open projects
 
