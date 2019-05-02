@@ -83,12 +83,15 @@ platform=`fastboot getvar platform 2>&1 | grep platform | awk '{print $NF}'`
 buildtype=`fastboot getvar build-type 2>&1 | grep build-type | awk '{print $NF}'`
 slot=`fastboot getvar current-slot 2>&1 | grep current-slot | awk '{print $NF}'`
 
+echo "platform:   "${platform}""
+echo "build-type: "${buildtype}""
+echo "slot:       "${slot}""
+
 # get the secret key and partition
 secret_key=`fastboot getvar secret-key-opt 2>&1 | grep secret-key-opt | awk '{print $NF}'`
 secret_partition=`fastboot oem get_random_partition 2>&1 | grep bootloader | awk '{print $NF}'`
 
-echo "secret key:       "${secret_key}""
-echo "secret partition: "${secret_partition}""
+echo -e "secret key:       "${secret_key}"\esecret partition: "${secret_partition}""
 
 if [ -z "${platform}" ];then
     platform="${default_platform}"
@@ -96,9 +99,10 @@ fi
 if [ -z "${buildtype}" ];then
     buildtype="${default_buildtype}"
 fi
-if [ -z "${slot}" ];then
-    slot="${default_slot}"
-fi
+#if [ -z "${slot}" ];then
+#    slot="${default_slot}"
+#fi
+slot="${default_slot}"
 
 if [ "${buildtype}" = "user" ]; then
     echo "${secret_key}" > default_key.bin
