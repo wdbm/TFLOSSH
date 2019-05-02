@@ -111,29 +111,42 @@ if [ "${buildtype}" = "user" ]; then
     fastboot flashing unlock_critical
 fi
 
-# download function
-split=$(printf "%-60s" "-")
-function flash_one_image() {
-    echo -e "\n${split// /-}"
-    if [ -e "${platform}_$2" ];then
-        echo -e "\E[0;32mbegin fastboot download ${platform}_$2\E[00m\n"
-        fastboot flash $1 ${platform}_$2
-    elif [ -e "$2" ];then
-        echo -e "\E[0;32mbegin fastboot download $2\E[00m\n"
-        fastboot flash $1 $2
-    else
-        echo -e "\E[1;31mCan't find file: $2 or ${platform}_$2, Skip!\E[00m\n"
-    fi
-}
+echo "reboot"
+fastboot oem recovery_and_reboot
+```
 
-echo -e "\nDownload complete. Reboot? (y/n)"
-read x
-if [ "${x}" == "y" ] || [ "${x}" == "Y" ];then
-    fastboot oem recovery_and_reboot
-fi
+On success of the various flashing steps, terminal output should feature content like the following:
+
+```Bash
+target reported max download size of 536870912 bytes
+sending 'XXXXXXXXXXXXX' (0 KB)...
+OKAY [  0.010s]
+writing 'XXXXXXXXXXXXX'...
+(bootloader) Begin to do frp unlock ...
+(bootloader) FRP unlock successful !!!
+OKAY [  0.006s]
+finished. total time: 0.015s
+```
+
+```Bash
+# fastboot flashing unlock
+...
+OKAY [  0.048s]
+finished. total time: 0.048s
+```
+
+```Bash
+# fastboot flashing unlock_critical
+...
+OKAY [  0.046s]
+finished. total time: 0.046s
 ```
 
 It might be beneficial to record the secret key and the secret partition.
+
+On reboot, you may encounter a passcode access problem. You can wipe the phone from the recovery image which is accessible by holding the power and volume down keys.
+
+Reboot to fastboot mode.
 
 ## install TWRP
 
