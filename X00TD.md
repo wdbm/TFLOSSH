@@ -67,6 +67,70 @@ sudo ./unlock.sh
 
 The device should now display "Press any key to shut down." Press the power button. The device should reboot with its bootloader unlocked.
 
+The following procedure has been extracted from the script `unlock.sh`:
+
+After unlocking developer mode, reboot to fastboot mode by holding the power and volume up keys.
+
+```Bash
+sudo su
+apt install adb fastboot
+
+default_platform="sdm636"
+default_buildtype="eng"
+default_slot="a"
+
+platform=`fastboot getvar platform 2>&1 | grep platform | awk '{print $NF}'`
+buildtype=`fastboot getvar build-type 2>&1 | grep build-type | awk '{print $NF}'`
+slot=`fastboot getvar current-slot 2>&1 | grep current-slot | awk '{print $NF}'`
+
+# get the secret key and partition
+secret_key=`fastboot getvar secret-key-opt 2>&1 | grep secret-key-opt | awk '{print $NF}'`
+secret_partition=`fastboot oem get_random_partition 2>&1 | grep bootloader | awk '{print $NF}'`
+
+echo "secret key:       "${secret_key}""
+echo "secret partition: "${secret_partition}""
+
+if [ -z "${platform}" ];then
+    platform="${default_platform}"
+fi
+if [ -z "${buildtype}" ];then
+    buildtype="${default_buildtype}"
+fi
+if [ -z "${slot}" ];then
+    slot="${default_slot}"
+fi
+
+if [ "${buildtype}" = "user" ]; then
+    echo "${secret_key}" > default_key.bin
+    fastboot flash "${secret_partition}" default_key.bin
+    fastboot flashing unlock
+    fastboot flashing unlock_critical
+fi
+
+# download function
+split=$(printf "%-60s" "-")
+function flash_one_image() {
+    echo -e "\n${split// /-}"
+    if [ -e "${platform}_$2" ];then
+        echo -e "\E[0;32mbegin fastboot download ${platform}_$2\E[00m\n"
+        fastboot flash $1 ${platform}_$2
+    elif [ -e "$2" ];then
+        echo -e "\E[0;32mbegin fastboot download $2\E[00m\n"
+        fastboot flash $1 $2
+    else
+        echo -e "\E[1;31mCan't find file: $2 or ${platform}_$2, Skip!\E[00m\n"
+    fi
+}
+
+echo -e "\nDownload complete. Reboot? (y/n)"
+read x
+if [ "${x}" == "y" ] || [ "${x}" == "Y" ];then
+    fastboot oem recovery_and_reboot
+fi
+```
+
+It might be beneficial to record the secret key and the secret partition.
+
 ## install TWRP
 
 Reboot the device to fastboot mode by pressing the power and volume up buttons at the same time. When this is done, connect the device to a computer and it should be visible:
