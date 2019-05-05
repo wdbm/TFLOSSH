@@ -18,7 +18,7 @@ This setup procedure resulted in a standard device being unlocked using the Asus
 
 ## enable developer mode, ADB
 
-Boot the device to its default Android installation and enable its developer mode in order to start its ADB server. When this is done, connect the device to a computer and it should be visible:
+Boot the device to its default Android installation, setting a PIN code as you do so, and enable its developer mode in order to start its ADB server. When this is done, connect the device to a computer and it should be visible:
 
 ```Bash
 sudo adb devices
@@ -32,11 +32,13 @@ Here, the string "XXXXXXXXXXXXXXX" represents some other alphanumeric string.
 
 ## unlock bootloader
 
+There are two methods to unlock the bootloader. One is official and an intrusion of privacy, and the other is not.
+
 - [XDA guide](https://forum.xda-developers.com/asus-zenfone-max-pro-m1/how-to/discussion-unlocking-bootloader-t3786698)
 
 ### method: official APK
 
-There is an official APK (`UnlockTool_9.1.0.3_180621_fulldpi_signed_ZB601KL.apk`) which unlocks the bootloader. In doing so, it requires an internet connection to send a record of this unlocking action to Asus.
+There is an official APK (`UnlockTool_9.1.0.3_180621_fulldpi_signed_ZB601KL.apk`) which unlocks the bootloader. In doing so, it requires an internet connection to send a record of this unlocking action to Asus. This presents an intrusion of privacy.
 
 - [Asus device page](https://www.asus.com/Phone/ZenFone-Max-Pro-M1/HelpDesk_Download)
 - [UnlockTool_9.1.0.3_180621_fulldpi_signed_ZB601KL.apk](https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZB601KL/UnlockTool_9.1.0.3_180621_fulldpi_signed_ZB601KL.apk)
@@ -52,22 +54,11 @@ Success
 
 Run the application. Unlocking using the application may take multiple attempts. On success, the device should reboot and a message should display with instructions. Press and hold the power button. This should reboot the device. Leave the device to boot. The device should now induce a factory reset (which involves the display of an "encrypting" display). The device should then boot as new.
 
-### method: unofficial executable by liunianliang
+### method: method derived from unofficial executable by liunianliang
 
-This method has not been tested here but would likely provide the benefit of privacy.
+This method has been derived from from the script `unlock.sh` by liunianliang.
 
 - [unlock.rar](https://drive.google.com/drive/folders/1YpezCedaRWGDS9WW7UaXXyyBod0Bk5qp)
-
-```Bash
-dtrx unlock.rar
-cd unlock/unlock
-chmod 755 unlock.sh
-sudo ./unlock.sh
-```
-
-The device should now display "Press any key to shut down." Press the power button. The device should reboot with its bootloader unlocked.
-
-The following procedure has been extracted from the script `unlock.sh`:
 
 After unlocking developer mode, reboot to fastboot mode by holding the power and volume up keys.
 
