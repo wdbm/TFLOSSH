@@ -18,7 +18,7 @@ This repository is intended to be a non-exhaustive source of information on devi
 - [FOSS mobile devices](#foss-mobile-devices)
     - [LineageOS](#lineageos)
         - [LineageOS devices comparison](#lineageos-devices-comparison)
-        - [Asus ZenFone Max Pro M1 (X00TD)](#asus-zenfone-max-pro-m1-x00td)
+        - [Asus ZenFone Max Pro M1 (X00TD)](#lineageos-asus-zenfone-max-pro-m1-x00td)
     - [UBports Ubuntu Touch](#ubports-ubuntu-touch)
         - [UBports Ubuntu Touch devices](#ubports-ubuntu-touch-devices)
         - [UBports Ubuntu Touch Meizu Pro 5 (turbo)](#ubports-ubuntu-touch-meizu-pro-5-turbo)
