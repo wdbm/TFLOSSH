@@ -18,6 +18,7 @@ This repository is intended to be a non-exhaustive source of information on devi
 - [FOSS mobile devices](#foss-mobile-devices)
     - [LineageOS](#lineageos)
         - [LineageOS devices comparison](#lineageos-devices-comparison)
+        - [Reddit thread 2019-06-30](reddit-thread-2019-06-30)
         - [Asus ZenFone Max Pro M1 (X00TD)](#lineageos-asus-zenfone-max-pro-m1-x00td)
     - [UBports Ubuntu Touch](#ubports-ubuntu-touch)
         - [UBports Ubuntu Touch devices](#ubports-ubuntu-touch-devices)
@@ -82,6 +83,10 @@ and Michael Riley (Bloomberg) (2018-10-04)
 - [LineageOS devices comparison notebook](devices.ipynb)
 - [Unofficial List and Spec Sheet of Officially Supported LineageOS devices](https://docs.google.com/spreadsheets/d/1swcOWw_KcSaE8otSa-1rthq7bLLmfsNZMWnVF5XCd1o/edit#gid=0)
     - [Reddit](https://www.reddit.com/r/LineageOS/comments/7w6nl3/unofficial_list_and_spec_sheet_of_officially/)
+
+### Reddit thread 2019-06-30
+
+- <https://old.reddit.com/r/LineageOS/comments/c7dnax/what_phone_do_you_use_for_los>
 
 ### LineageOS Asus ZenFone Max Pro M1 (X00TD)
 
