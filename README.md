@@ -63,6 +63,7 @@ and Michael Riley (Bloomberg) (2018-10-04)
 ## Why Google is dangerous
 
 - [*I Cut Google Out Of My Life. It Screwed Up Everything*](https://gizmodo.com/i-cut-google-out-of-my-life-it-screwed-up-everything-1830565500) -- Kashmir Hill (2019-01-29)
+- [*Degoogling LineageOS in 2019*](https://old.reddit.com/r/LineageOS/comments/ccs5wy/degoogling_lineageos_in_2019)
 
 # FOSS laptops
 
