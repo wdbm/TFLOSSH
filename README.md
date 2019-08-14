@@ -20,6 +20,7 @@ This repository is intended to be a non-exhaustive source of information on devi
         - [LineageOS devices comparison](#lineageos-devices-comparison)
         - [Reddit thread 2019-06-30](reddit-thread-2019-06-30)
         - [Asus ZenFone Max Pro M1 (X00TD)](#lineageos-asus-zenfone-max-pro-m1-x00td)
+        - [Samsung Galaxy Note 3 (hlte)](#lineageos-samsung-galaxy-note-3-hlte)
     - [UBports Ubuntu Touch](#ubports-ubuntu-touch)
         - [UBports Ubuntu Touch devices](#ubports-ubuntu-touch-devices)
         - [UBports Ubuntu Touch Meizu Pro 5 (turbo)](#ubports-ubuntu-touch-meizu-pro-5-turbo)
@@ -92,6 +93,10 @@ and Michael Riley (Bloomberg) (2018-10-04)
 ### LineageOS Asus ZenFone Max Pro M1 (X00TD)
 
 - [Asus ZenFone Max Pro M1 (X00TD) device setup documentation](X00TD.md)
+
+### Samsung Galaxy Note 3 (hlte)
+
+- [Samsung Galaxy Note 3 (hlte) device setup documentation](hlte.md)
 
 ## UBports Ubuntu Touch
 
