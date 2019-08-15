@@ -21,6 +21,7 @@ This repository is intended to be a non-exhaustive source of information on devi
         - [Reddit thread 2019-06-30](reddit-thread-2019-06-30)
         - [Asus ZenFone Max Pro M1 (X00TD)](#lineageos-asus-zenfone-max-pro-m1-x00td)
         - [Samsung Galaxy Note 3 (hlte)](#lineageos-samsung-galaxy-note-3-hlte)
+        - [General setup](#lineageos-general-setup)
     - [UBports Ubuntu Touch](#ubports-ubuntu-touch)
         - [UBports Ubuntu Touch devices](#ubports-ubuntu-touch-devices)
         - [UBports Ubuntu Touch Meizu Pro 5 (turbo)](#ubports-ubuntu-touch-meizu-pro-5-turbo)
@@ -97,6 +98,24 @@ and Michael Riley (Bloomberg) (2018-10-04)
 ### Samsung Galaxy Note 3 (hlte)
 
 - [Samsung Galaxy Note 3 (hlte) device setup documentation](hlte.md)
+
+### General setup
+
+- Unlock the device and the bootloader.
+- Install TWRP and LineageOS.
+- Install [F-Droid](https://f-droid.org/FDroid.apk)
+- Install [Aurora Store](https://f-droid.org/en/packages/com.aurora.store).
+- Install [applications](applications.md).
+
+## PureOS
+
+PureOS is a GNU/Linux distribution based on Debian. [Phosh](https://developer.puri.sm/Librem5/Software_Reference/Environments/Phosh.html) is the PureOS GTK-compliant default user interface for phone-like devices. It uses [a fork](https://source.puri.sm/Librem5/wlroots) of [wlroots](https://github.com/swaywm/wlroots) as a Wayland compositor.
+
+- upcoming documentation
+
+### Librem 5
+
+- upcoming documentation
 
 ## UBports Ubuntu Touch
 
