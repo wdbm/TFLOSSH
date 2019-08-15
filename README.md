@@ -22,11 +22,11 @@ This repository is intended to be a non-exhaustive source of information on devi
         - [Asus ZenFone Max Pro M1 (X00TD)](#lineageos-asus-zenfone-max-pro-m1-x00td)
         - [Samsung Galaxy Note 3 (hlte)](#lineageos-samsung-galaxy-note-3-hlte)
         - [General setup](#lineageos-general-setup)
+    - [Librem PureOS](#librem-pureos)
+        - [Librem 5](#librem-5)
     - [UBports Ubuntu Touch](#ubports-ubuntu-touch)
         - [UBports Ubuntu Touch devices](#ubports-ubuntu-touch-devices)
         - [UBports Ubuntu Touch Meizu Pro 5 (turbo)](#ubports-ubuntu-touch-meizu-pro-5-turbo)
-    - [Librem PureOS](#librem-pureos)
-    - [Librem 5 (upcoming)](#librem-5-upcoming)
     - [Applications solutions for LineageOS and Ubuntu Touch](#applications-solutions-for-lineageos-and-ubuntu-touch)
 - [Libreboot](#libreboot)
 - [Other](#other)
@@ -107,7 +107,7 @@ and Michael Riley (Bloomberg) (2018-10-04)
 - Install [Aurora Store](https://f-droid.org/en/packages/com.aurora.store).
 - Install [applications](applications.md).
 
-## PureOS
+## Librem PureOS
 
 PureOS is a GNU/Linux distribution based on Debian. [Phosh](https://developer.puri.sm/Librem5/Software_Reference/Environments/Phosh.html) is the PureOS GTK-compliant default user interface for phone-like devices. It uses [a fork](https://source.puri.sm/Librem5/wlroots) of [wlroots](https://github.com/swaywm/wlroots) as a Wayland compositor.
 
@@ -116,6 +116,8 @@ PureOS is a GNU/Linux distribution based on Debian. [Phosh](https://developer.pu
 ### Librem 5
 
 - upcoming documentation
+
+- [Librem 5](https://puri.sm/products/librem-5)
 
 ## UBports Ubuntu Touch
 
@@ -130,12 +132,6 @@ PureOS is a GNU/Linux distribution based on Debian. [Phosh](https://developer.pu
 This is a device capable of running UBports Ubuntu Touch 16.04 LTS with Anbox for Android applications.
 
 - upcoming documentation
-
-## Librem PureOS
-
-### Librem 5 (upcoming)
-
-- [Librem 5](https://puri.sm/products/librem-5)
 
 ## Applications solutions for LineageOS and Ubuntu Touch
 
