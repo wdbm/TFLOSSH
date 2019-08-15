@@ -1,4 +1,4 @@
-# Samsung Galaxy Note 3 (upcoming documentation)
+# Samsung Galaxy Note 3
 
 ![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/2019-08-15T1757Z.png)
 
