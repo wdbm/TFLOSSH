@@ -19,8 +19,8 @@ This repository is intended to be a non-exhaustive source of information on devi
     - [LineageOS](#lineageos)
         - [LineageOS devices comparison](#lineageos-devices-comparison)
         - [Reddit thread 2019-06-30](reddit-thread-2019-06-30)
-        - [Asus ZenFone Max Pro M1 (X00TD)](#lineageos-asus-zenfone-max-pro-m1-x00td)
-        - [Samsung Galaxy Note 3 (hlte)](#lineageos-samsung-galaxy-note-3-hlte)
+        - [Asus ZenFone Max Pro M1 (X00TD)](#asus-zenfone-max-pro-m1-x00td)
+        - [Samsung Galaxy Note 3 (hlte)](#samsung-galaxy-note-3-hlte)
         - [General setup](#lineageos-general-setup)
     - [Librem PureOS](#librem-pureos)
         - [Librem 5](#librem-5)
@@ -91,7 +91,7 @@ and Michael Riley (Bloomberg) (2018-10-04)
 
 - <https://old.reddit.com/r/LineageOS/comments/c7dnax/what_phone_do_you_use_for_los>
 
-### LineageOS Asus ZenFone Max Pro M1 (X00TD)
+### Asus ZenFone Max Pro M1 (X00TD)
 
 - [Asus ZenFone Max Pro M1 (X00TD) device setup documentation](X00TD.md)
 
