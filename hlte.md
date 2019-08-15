@@ -28,7 +28,7 @@ Flash TWRP to the device via fastboot.
 fastboot flash recovery twrp-3.3.1-0-hlte.img
 ```
 
-Boot the device to TWRP by pressing the home, power and volume up buttons at the same time until the ASUS logo appears, then release the buttons.
+Boot the device to TWRP by pressing the home, power and volume up buttons at the same time until the Samsung logo appears, then release the buttons.
 - Wipe > Advanced Wipe
     - Cache
     - System
