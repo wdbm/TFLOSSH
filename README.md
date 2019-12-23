@@ -152,3 +152,7 @@ Libreboot is a free and open source BIOS or UEFI replacement.
 ## setup of NordVPN via APK 2018-11-11T0252Z
 
 - <https://nordvpn.com/tutorials/android/apk>
+
+## browser extensions
+
+- [browsers_config](https://github.com/wdbm/browsers_config)
