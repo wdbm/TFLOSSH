@@ -26,7 +26,8 @@ This repository is intended to be a non-exhaustive source of information on devi
         - [Librem 5](#librem-5)
     - [UBports Ubuntu Touch](#ubports-ubuntu-touch)
         - [UBports Ubuntu Touch devices](#ubports-ubuntu-touch-devices)
-        - [UBports Ubuntu Touch Meizu Pro 5 (turbo)](#ubports-ubuntu-touch-meizu-pro-5-turbo)
+        - [Meizu PRO 5 (turbo)](#ubports-ubuntu-touch-meizu-pro-5-turbo)
+        - [BQ Aquaris E4.5 (krillin)](bq-aquaris-e4.5-krillin)
     - [Applications solutions for LineageOS and Ubuntu Touch](#applications-solutions-for-lineageos-and-ubuntu-touch)
 - [Libreboot](#libreboot)
 - [Other](#other)
@@ -115,23 +116,29 @@ PureOS is a GNU/Linux distribution based on Debian. [Phosh](https://developer.pu
 
 ### Librem 5
 
-- upcoming documentation
-
 - [Librem 5](https://puri.sm/products/librem-5)
+
+- upcoming documentation
 
 ## UBports Ubuntu Touch
 
-- upcoming documentation
+- [Ubuntu Touch documentation](Ubuntu_Touch.md)
 
 ### UBports Ubuntu Touch devices
 
 - [UBports Ubuntu Touch devices](https://devices.ubuntu-touch.io)
 
-### UBports Ubuntu Touch Meizu Pro 5 (turbo)
+### Meizu PRO 5 (turbo)
 
 This is a device capable of running UBports Ubuntu Touch 16.04 LTS with Anbox for Android applications.
 
-- upcoming documentation
+- [Meizu PRO 5 (turbo) device setup documentation](turbo.md)
+
+### BQ Aquaris E4.5 (krillin)
+
+This was the first commercially available phone to feature Ubuntu Touch.
+
+- [BQ Aquaris E4.5 (krillin) device setup documentation](krillin.md)
 
 ## Applications solutions for LineageOS and Ubuntu Touch
 
