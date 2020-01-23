@@ -1,9 +1,13 @@
-# UBports
+# UBports Ubuntu Touch
+
+![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/DZiTCuFXUAEA-j8.png)
 
 # devices
 
 - [Meizu PRO 5 (turbo)](turbo.md)
 - [BQ Aquaris E4.5 (krillin)](krillin.md)
+
+![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/phone.jpg)
 
 # general references
 
@@ -40,6 +44,8 @@ volume up + volume down
 ```
 
 # staged and windowed modes (accessible now via UT Tweak Tool)
+
+![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/DSCF0767_1.JPG)
 
 ```Bash
 gsettings set com.canonical.Unity8 usage-mode Windowed

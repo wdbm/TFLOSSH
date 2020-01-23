@@ -1,5 +1,7 @@
 # Meizu PRO 5
 
+![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/DSC03294.JPG)
+
 - model/codename: turbo
 
 # setup: UBports Ubuntu Touch 16.04 with Anbox
@@ -293,6 +295,8 @@ A reboot may be necessary for the device to be detectable to ADB as being not of
 adb install /home/phablet/Downloads/FDroid.apk
 ```
 
+![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/IMG_20200108_194724.jpg)
+
 ### old instructions for installation of Android applications (may not be working)
 
 Android program APKs can be installed in a way like the following. Copy the APK to the directory `/home/phablet/anbox-data/data`. On the phone, log into the Android container:
@@ -321,3 +325,5 @@ sudo apt autoremove
 # turbo.sh
 
 `turbo.sh` is a small function library script that can be sourced for convenience.
+
+![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/DSC07698.JPG)
