@@ -4,6 +4,8 @@
 
 - model/codename: turbo
 
+![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/MeizuPro5_Leaning-Group-2.jpg)
+
 # setup: UBports Ubuntu Touch 16.04 with Anbox
 
 This guide is intended to change a 64 GB Meizu PRO 5 Android Flyme international edition such that it is running UBports Ubuntu Touch 16.04 development edition with Anbox.

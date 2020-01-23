@@ -85,6 +85,8 @@ sudo apt-get upgrade
 sudo apt-get dist-upgrade
 ```
 
+![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/DSCF0140.JPG)
+
 # backup 2016-07-20T1829Z
 
 Back up everything at the directory `/home/phablet`, including all hidden directories, such as `/home/phablet/.config`. This should back up everything except applications, which are at a number of directories, including `/opt/click.ubuntu.com/` and `/usr/share/click/preinstalled`. It might be worthwhile to back up the directory `.cache`. Get a list of all installed applications:
