@@ -1,6 +1,6 @@
 # BQ Aquaris E4.5
 
-![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/DSCF3923.png)
+![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/DSCF3923.JPG)
 
 - model/codename: krillin
 
