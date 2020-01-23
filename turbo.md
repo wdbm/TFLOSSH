@@ -6,7 +6,7 @@
 
 # setup: UBports Ubuntu Touch 16.04 with Anbox
 
-This guide is intended to change a 64 GB Meizu PRO 5 Android Flyme international edition such that it is running UBports Ubuntu Touch 16.04 development edition with Anbox. Some steps needed now 
+This guide is intended to change a 64 GB Meizu PRO 5 Android Flyme international edition such that it is running UBports Ubuntu Touch 16.04 development edition with Anbox.
 
 ## prerequisites
 
@@ -29,7 +29,7 @@ fastboot is a diagnostic and engineering protocol to which a device can be boote
 
 ### unlock bootloader
 
-Download a Flyme update `[update.zip](http://www.mediafire.com/file/om2hc051g46sm47/update.zip)` and push the downloaded file to the root of the filesystem. To install the update, boot to the Flyme system recovery, select "System upgrade" and then select "Start". The device should reboot to the updated Flyme. In the updated Flyme, engage developer options and USB debugging. Boot the device to fastboot and unlock the bootloader using the  following command:
+Download a Flyme update [update.zip](http://www.mediafire.com/file/om2hc051g46sm47/update.zip) and push the downloaded file to the root of the filesystem. To install the update, boot to the Flyme system recovery, select "System upgrade" and then select "Start". The device should reboot to the updated Flyme. In the updated Flyme, engage developer options and USB debugging. Boot the device to fastboot and unlock the bootloader using the  following command:
 
 ```Bash
 sudo fastboot oem unlock
@@ -247,6 +247,8 @@ sudo fastboot flash recovery recovery-turbo.img
 
 ## Anbox (2020-01-08T1841Z)
 
+![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/DSC07698.JPG)
+
 It is assumed that the development channel of UBports Ubuntu Touch 16.04 is used. Boot the phone to UBports Ubuntu Touch 16.04. In its terminal or via ADB shell, enter the following:
 
 ```Bash
@@ -325,5 +327,3 @@ sudo apt autoremove
 # turbo.sh
 
 `turbo.sh` is a small function library script that can be sourced for convenience.
-
-![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/DSC07698.JPG)
