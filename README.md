@@ -104,7 +104,7 @@ and Michael Riley (Bloomberg) (2018-10-04)
 
 - Unlock the device and the bootloader.
 - Install TWRP and LineageOS.
-- Install [F-Droid](https://f-droid.org/FDroid.apk)
+- Install [F-Droid](https://f-droid.org/FDroid.apk).
 - Install [Aurora Store](https://f-droid.org/en/packages/com.aurora.store).
 - Install [applications](applications.md).
 

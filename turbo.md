@@ -317,3 +317,7 @@ sudo apt remove anbox-ubuntu-touch
 sudo apt purge anbox-ubuntu-touch
 sudo apt autoremove
 ```
+
+# turbo.sh
+
+`turbo.sh` is a small function library script that can be sourced for convenience.
