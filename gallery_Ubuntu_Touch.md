@@ -10,7 +10,7 @@
 |E4.5 with playing cards view of open applications              |X00TD with playing cards view of open applications               |
 |![](media/DSC07698.JPG)                                        |![](media/DSCF0140.JPG)                                          |
 |X00TD with playing cards view of open applications             |VLC in terminal                                                  |
-|![](media/IMG_20200206_193721.jpg)                             |
-|Android applications via Anbox, X11 applications               |
+|![](media/IMG_20200206_193721.jpg)                             |![](media/phone.jpg)                                             |
+|Android applications via Anbox, X11 applications               |phone with coffee                                                |
 |![](media/IMG_20200108_194724.jpg)                             |![](media/IMG_20180527_184006.jpg)                               |
 |FDroid via Anbox                                               |Google Maps                                                      |
