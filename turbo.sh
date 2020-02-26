@@ -9,7 +9,8 @@ setupfull(){
     sudo apt update
     wget -N https://bootstrap.pypa.io/get-pip.py
     sudo python get-pip.py
-    rm get-pip.py
+    sudo python3 get-pip.py
+    #rm get-pip.py
     sudo apt install      \
         bc                \
         curl              \

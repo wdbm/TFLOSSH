@@ -4,6 +4,8 @@
 
 - model/codename: krillin
 
+- [general UBports Ubuntu Touch gallery](media/gallery_Ubuntu_Touch.md)
+
 # setup: UBports Ubuntu Touch 16.04 (2020-01)
 
 Use the UBports Installer.
