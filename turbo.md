@@ -6,7 +6,7 @@
 
 ![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/MeizuPro5_Leaning-Group-2.jpg)
 
-- [general UBports Ubuntu Touch gallery](media/gallery_Ubuntu_Touch.md)
+- [general UBports Ubuntu Touch gallery](gallery_Ubuntu_Touch.md)
 
 # setup: UBports Ubuntu Touch 16.04 with Anbox
 
