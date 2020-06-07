@@ -38,6 +38,8 @@ Note that WhatsApp, an application that is similar in some ways to Signal, shoul
 
 When you use Signal, you can create chat groups on it with auto-deleting messages to protect your right to privacy. You should likely be *organising* in such a group, with messages autodeleting after perhaps an hour. It may be ok to have another group that autodeletes messages after a week in order to ensure that photographs and other forms of evidence are saved online and not just on your phone.
 
+Some more detailed guidance on the use of Signal is [here](https://ssd.eff.org/en/module/how-use-signal-android).
+
 Unfortunately, Signal is dependent on the internet and is centralised. So, you need an internet connection to use it and you need the Signal computers to be switched on for it to work. Police and governments have the ability to switch off such servers, to switch off the internet, and to jam access to the internet using radio devices at protests.
 
 ## anonymous and peer-to-peer messaging
@@ -108,7 +110,11 @@ Jitsi is a video meetings communications system that has some privacy protection
 
 ## application for taking notes
 
-It can be helpful to have an application for taking notes, such as of vehicle identifications and police identifications. One application for this is [Omni-Notes](https://f-droid.org/packages/it.feio.android.omninotes.foss).
+It can be helpful to have an application for taking notes, such as of vehicle identifications and police identifications.
+
+Signal has inbuilt functionality for this when you search for the "Note to Self" chat group, which should likely be set to autodelete messages after a week.
+
+One application dedicated to taking notes and making to-do lists is [Omni-Notes](https://f-droid.org/packages/it.feio.android.omninotes.foss).
 
 ## police scanner
 
