@@ -43,6 +43,7 @@ This repository is intended to be a non-exhaustive source of information on devi
 # Why free/libre and open source is needed
 
 - [*Philosophy of the GNU Project*](https://www.gnu.org/philosophy/philosophy.html) -- [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
+- [*Lithuania says throw away Chinese phones due to censorship concerns*](https://www.reuters.com/business/media-telecom/lithuania-says-throw-away-chinese-phones-due-censorship-concerns-2021-09-21)
 
 ## Intel Management Engine
 
