@@ -18,7 +18,7 @@ This setup procedure resulted in a standard device being unlocked using the Asus
 
 ## enable developer mode, ADB
 
-Boot the device to its default Android installation, setting a PIN code as you do so, and enable its developer mode in order to start its ADB server. When this is done, connect the device to a computer and it should be visible:
+Boot the device to its default Android installation, setting a PIN code as you do so, and enable its developer mode in order to start its ADB server and perhaps enable USB debugging if you wish to install applications via ADB, such as the official unlocking application. When this is done, connect the device to a computer and it should be visible:
 
 ```Bash
 sudo adb devices
