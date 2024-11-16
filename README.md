@@ -2,8 +2,6 @@
 
 This repository is intended to be a non-exhaustive source of information on devices and software that are part of a journey towards Free/Libre Open Source Software and Hardware.
 
-![](https://raw.githubusercontent.com/wdbm/TFLOSSH/master/media/rainbow-gathering-gallery-876-786-1479897428.png)
-
 # Contents
 
 - [Terminology](#terminology)
